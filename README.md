@@ -1,9 +1,4 @@
-#
----
 
-## Credit Card Default Risk Prediction**
-
-**📁 Repo Name Suggestion:** `credit-default-prediction`
 
 ### README.md
 ```markdown
