@@ -1,9 +1,34 @@
-# CCdefaulty
-This project runs a boosting algorithm to identify which credit card holder will default ( as in is a high risk for the issuing card bank )
-This Project was a part of a Hackathon I participated in and these are the submissions I learnt a lot from this Problem and hope whooever is reading this can too
+#
+---
+
+## Credit Card Default Risk Prediction**
+
+**📁 Repo Name Suggestion:** `credit-default-prediction`
+
+### README.md
+```markdown
+#  Credit Card Default Risk Prediction
+
+A risk assessment model for predicting the likelihood of credit card default using structured financial data.
+
+## Objective
+To support profitability optimization through accurate risk scoring of credit card customers.
+
+## Dataset
+- 96,806 records
+- Financial, demographic, and behavioral variables
+
+## Approach
+- **EDA** and correlation-based feature elimination
+- Engineered additional features from unnamed fields
+- Trained using **LightGBM**
+- Validated with **k-fold cross-validation**
+
+## Results
+- **Validation Accuracy**: 84%
+- Built a risk framework for financial decision-making
+
+## Tools Used
+`Python`, `Pandas`, `LightGBM`, `Scikit-learn`, `Matplotlib`
 
 
-
-
-I coded this in Kaggle due to insufficient resources! 
-(The Training and the test set are in the repo)
