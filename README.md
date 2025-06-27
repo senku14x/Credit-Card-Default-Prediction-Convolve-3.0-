@@ -1,7 +1,5 @@
 
 
-### README.md
-```markdown
 #  Credit Card Default Risk Prediction
 
 A risk assessment model for predicting the likelihood of credit card default using structured financial data.
